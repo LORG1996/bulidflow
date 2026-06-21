@@ -6,7 +6,7 @@
 **BuildFlow** is a powerful procedural system built inside Blender using Geometry Nodes. It is designed to automatically generate high-quality, full-CG architectural construction time-lapse animations from your own master plans and 3D assets. 
 
 ---
-Download for free here : [https://www.turbosquid.com/3d-models/3d-buildflow-procedural-timelapse-animation-2584245](https://www.turbosquid.com/3d-models/3d-buildflow-procedural-timelapse-animation-2584245)
+Download for free here : https://www.turbosquid.com/3d-models/3d-buildflow-procedural-timelapse-animation-2584245
 ## 📺 Previews & Video Guides
 
 ### Project Showcase
